@@ -1,5 +1,5 @@
 # Установка базового образа Python
-FROM python:3.10
+FROM python:3.8
 
 # Установка рабочей директории
 WORKDIR /app
