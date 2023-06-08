@@ -20,4 +20,4 @@ ENV PORT=3000
 EXPOSE $PORT
 
 # Запуск приложения
-CMD [ "python", "bot.py" ]
+CMD [ "python", "main.py" ]
